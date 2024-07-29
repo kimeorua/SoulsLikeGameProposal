@@ -135,4 +135,4 @@
 | CombetComponent |전투 시스템 관리|
 
 #### 8 적 AI흐름
-![]()
+![](img/AI패턴흐름.PNG)
