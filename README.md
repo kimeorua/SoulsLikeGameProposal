@@ -54,9 +54,9 @@
 
 |요소|설명|
 |:------:|:-------------|
-| WeaponComponent |무기 장착 및 교체 정보 등을 가짐|
-| StatsComponent |캐릭터의 스탯 관리|
-| CombetComponent |전투 시스템 관리|
+| AbilitySystemComponent |캐릭터의 스탯 및 능력 시스템|
+| WeaponComponent |무기 시스템|
+| LookOnComponent |플레이어 락온 시스템|
 
 #### 6 적 AI흐름
 ![](img/AI패턴흐름도.PNG)
